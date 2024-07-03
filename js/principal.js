@@ -1,5 +1,5 @@
 /**
- * 240307-0909-G) Tst Project IDX 
+ * 240307-0913-G) Tst Project IDX 
  * Analasis de datos
  * Un producto codigo, costo tipo (1: Dama 2: caballero 3 : niño)
  * preciobaseVenta resulta de incrementar un 30% del costo
